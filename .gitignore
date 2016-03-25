@@ -1,6 +1,9 @@
 node_modules
-DS_Store
+.DS_Store
 .DS_Store
 *DS_Store
-build
-*log
+build/
+project_source/kanban-app/*/build/
+project_source/builds/
+*.diff
+*.log
